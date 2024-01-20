@@ -6,8 +6,6 @@ Welcome to my profile! Little bit about me:
 - I make desserts because it reverses stressed people :cake:
 - RuneScape enthusiast :mage:
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndrewCMoore&theme=transparent&hide_border=true&border_radius=4.7&mode=weekly)](https://git.io/streak-stats)
-
 ## Current Strengths
 
 <article class = "grid">
